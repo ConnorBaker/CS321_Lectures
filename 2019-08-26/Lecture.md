@@ -36,15 +36,24 @@ According to the IEEE (IEEE93a):
 
 You must be both disciplined and agile.
 
+So why do we need Software Engineering?
+
++ It provides for a systematic and cultured approach to the process of building software
+  + This creates an approach which has the ability to scale.
+
 The overarching goal is
 
 > To produce a quality product, on time, within budget, and of value to the customers and users.
+
+Software is written *for* people. As such, the end user and customer should be taken into consideration during development, not just marketing for release.
+
+The customer often has tacit knowledge -- that's the "I'll know it when I see it" that you might hear later in the workplace. Part of our job as Software Engineers is to extract that tacit knowledge.
 
 ## Software Engineering Rationale
 
 For any software project, a set of Software Engineering (SE) *objectives* should be specified.
 
-Acheivement of those objectives is governed by the adoption of SE *principles* in the *process*.
+Achievement of those objectives is governed by the adoption of SE *principles* in the *process*.
 
 Use of such SE principles will induce desirable *attributes* in the *product*.
 
@@ -53,23 +62,30 @@ Use of such SE principles will induce desirable *attributes* in the *product*.
 1. People
 2. Process
 3. Project
+   + This typically involves managing the process -- acquiring tools, money, Subject Matter Experts, etc.
 4. Product
 
 ## A Generic Software Engineering Process
+
+The order of these events depends largely on the development process used.
 
 1. Communication
 2. Planning
 3. Modeling
 4. Construction
 5. Deployment
+6. Evolution
 
 ## Umbrella Activities
+
+These activities occur constantly through the development and software lifecycle.
 
 + Project tracking and control
 + Risk management
 + Software Quality Assurance (QA)
 + Technical reviews
 + Measurement
+  + Without some measure (a metric) we cannot hope to improve something
 + Software Configuration Management (SCM)
 + Documentation and other artifacts
 
