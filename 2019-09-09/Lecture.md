@@ -28,19 +28,21 @@ header-includes:
 
 ## Review of Previous Class
 
++ HealthCare.gov as a case study in poor management
++ Takeaways from the readings
+  + Different types of agile methodologies
+  + Built from frustration with the pace of waterfall
+  + Focus on small team sizes
+
 ## Quick History
 
++ Programming became exceptionally widespread and very complicated in the 1960s.
 + Software Crisis (1960's) Software intensive systems delivered late, over budget and without meeting the quality requirements that were set forward
-
-Solution attempt #1: Structured Methods
-Solution attempt #2: Object Oriented Methods
-
+  + Solution attempt #1: Structured Methods
+  + Solution attempt #2: Object Oriented Methods
 + Chronic Software Crisis (1990's) Software intensive systems still delivered late, over budget and did not meet quality requirements
-
-Solution attempt #1: Software Process Improvement
-Solution attempt #2: Agile Methods
-
-*TODO:* Add note about CMMI
+  + Solution attempt #1: Software Process Improvement
+  + Solution attempt #2: Agile Methods
 
 ## The Agile Manifesto
 
@@ -101,11 +103,15 @@ The original value propositions set forward by the Agile Manifesto left much to 
 
 ## How Agile Approaches Work
 
+![Agile as a Diagram.](images/AgileApproach.png){ width=75% }
+
 Generally, the time to market is called the development phase. This time is chopped up into uniform segments called Release Cycles (or Program Increments).
 
 These Program Increments are typically eight or more weeks in duration. Each Program Increment is broken down into two-to-four week segments called Iterations.
 
 Features the customer wants are put into the Project Backlog. From there, the development team estimates their capacity for the Iteration and turns the features into collections of user stories or tasks. They then attempt to complete the user stories and tasks they've agreed to for the Iteration.
+
+![Iteration Planning and Backlog.](images/IterationPlanning.png){ width=75% }
 
 Each Iteration typically culminates with a delivery of a Minimum Viable Product and a retrospective. The retrospective serves to evaluate the progress made during the Iteration; what went well and what didn't.
 
@@ -175,44 +181,3 @@ certain situations:
 visibility
 + Deliver increase in productivity, quality and ROI
 + Greater job satisfaction for developers
-
-## Scrum
-
-+ Process management framework
-+ Facilitates incremental and iterative development
-+ Does not specify software development techniques
-
-### Phases
-
-+ Pre-game phase
-+ Development phase 
-+ Post-game phase
-
-### Roles and responsibilities
-
-+ Scrum Master
-+ Product Owner
-+ Scrum team
-+ Customer
-+ Management
-
-### Practices
-
-+ Product backlog
-+ Effort estimation
-+ Sprint
-+ Sprint planning meeting
-+ Sprint backlog
-+ Daily Scrum meeting
-+ Sprint review meeting
-+ Sprint Retrospective
-
-## Extreme Programming
-
-+ Designed for small to medium teams
-+ Based on 4 values: communication, simplicity, feedback and courage
-+ Emphasizes on an onsite customer
-
-![The XP Process.](images/LifecycleXP.png){ width=75% }
-
-![XP Practices.](images/XPPractices.png){ width=75% }
