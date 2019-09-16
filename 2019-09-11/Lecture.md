@@ -26,8 +26,6 @@ header-includes:
  - \usepackage{lastpage}
 ---
 
-## Review of Previous Class
-
 ## Scrum
 
 ![Scrum Workflow.](images/Scrum.png){ width=75% }
