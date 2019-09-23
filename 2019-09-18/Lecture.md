@@ -121,7 +121,7 @@ the software is used
 + Process requirements may also be specified mandating a particular IDE, programming language or development method
 + Non-functional requirements may be more critical than functional requirements. If these are not met, the system may be useless
 + Typically words that work as defining an attribute of a system can be considered NFRs
-  + Saftey, security, reliability, scalability, etc.
+  + Safety, security, reliability, scalability, etc.
 
 ## Implementing Non-Functional Requirements
 
@@ -250,7 +250,7 @@ The planning and controlling of the requirements elicitation, specification, ana
   + Tools
   + All of which require education of both the customer and developer
 
-## Requirements Validation
+## Requirements Evaluation
 
 + Validity
   + Does the system provide the functions which best support the customer’s needs?
@@ -266,16 +266,6 @@ The planning and controlling of the requirements elicitation, specification, ana
   + One interpretation of each stated requirement.
 + Traceable
   + Origin and realization of each requirement should be clear.
-
-## Requirements Evaluation
-
-Consists of five attributes
-
-+ Unambiguity
-+ Completeness
-+ Consistency
-+ Testable
-+ Traceable
 
 ### Unambiguity
 
@@ -353,7 +343,7 @@ Who else do you think should participate in the RE process?
 
 ![Requirements Change Management Flow](images/RequirementsChangeManagement.png){ width=75% }
 
-## Natural Langauge Specification
+## Natural Language Specification
 
 + Requirements are written as natural language sentences supplemented by diagrams and tables
 + Used for writing requirements because it is expressive, intuitive and universal. This means that the requirements can be understood by users and customers
