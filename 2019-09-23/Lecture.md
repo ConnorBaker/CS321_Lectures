@@ -87,13 +87,15 @@ While there is value in the items on the right, we value the items on the left m
 
 + Evolutionary Requirements
 + Minimal Big Requirements Up Front
-+ Incremental and iterative implementation of requirements §Accommodate change late in the development life cycle
++ Incremental and iterative implementation of requirements
++ Accommodate change late in the development life cycle
 + Minimal requirements documentation
 + Just-In-Time (JIT) Requirements
 
 ## Agile RE Concepts
 
-+ Implicit V&V – more of a validation process §Treat requirements like prioritized stack
++ Implicit V&V – more of a validation process
++ Treat requirements like prioritized stack
 + Adopt stakeholder terminology
 + Record requirements in the user’s vernacular
 + Direct stakeholder involvement
