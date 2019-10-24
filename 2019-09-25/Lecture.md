@@ -1,5 +1,5 @@
 ---
-title: Agile Requirements Engineering
+title: Software Architecture
 author: [Connor Baker]
 date: Compiled on \today\ at \currenttime
 subject: September 23, 2019 Lecture on GMU's CS 321
