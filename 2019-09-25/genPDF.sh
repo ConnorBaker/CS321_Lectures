@@ -1,3 +1,3 @@
-#! /bin/bash
+#! /bin/bashx
 
-pandoc --template eisvogel Lecture.md -o Lecture.pdf --pdf-engine=xelatex
+pandoc --template eisvogel Lecture.md -o Lecture.pdf --pdf-engine=pdflatex
